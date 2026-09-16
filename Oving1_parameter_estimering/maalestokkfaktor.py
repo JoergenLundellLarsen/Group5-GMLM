@@ -89,13 +89,10 @@ m_k = m0 + (y_m**2) / (2 * R**2)
 # RESULTAT
 # ============================================================
 
-print("=" * 60)
 print("BEREGNING AV MÅLESTOKKFAKTOR I UTM")
-print("=" * 60)
+
 
 print(f"E middel      = {E_middel:.3f} m")
 print(f"y_m           = {y_m:.3f} m")
 print(f"m0            = {m0:.7f}")
 print(f"målestokk m_k = {m_k:.9f}")
-
-print("=" * 60)
