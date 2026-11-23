@@ -1,0 +1,19 @@
+ESTIMERING AV ADDISJONSKONSTANT
+Observasjoner: 45 (21 retninger, 24 avstander)
+Ukjente: 6
+Frihetsgrader: 39
+
+Addisjonskonstant
+a = -38.85 mm
+Standardavvik: 1.70 mm
+D_sann = D_obs + (-0.038847 m)
+
+Estimerte koordinater for P112
+Nord: 6615726.3976 m (standardavvik 0.53 mm)
+Øst:  599772.3523 m (standardavvik 0.77 mm)
+
+Kontroll av utjevningen
+Estimert standardavvik for vektenheten: 0.00127016 gon
+Forhold til antatt standardavvik: 2.54
+Største absolutte retningsresidual: 0.003531 gon
+Største absolutte avstandsresidual: 1.18 mm
